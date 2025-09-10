@@ -55,7 +55,7 @@ Generated **four plots** (saved into `plots/` folder and displayed for 3 seconds
 
 ---
 
-## 📊 Saved IMages Visualizations
+## 📊 Saved Images Visualizations
 
 ### 📈 Line Chart – Sepal vs Petal Length over Index
 
@@ -108,7 +108,9 @@ python w-7_data_analysis-with_pandas_and_matplotlib.py
 ## 👨‍💻 Author
 
 Name: Dereje Masresha
+
 Course: Python Week 7 – Data Analysis & Visualization
+
 Instructor: Mr. Zablon (PLP Instructor)
 
 ---
